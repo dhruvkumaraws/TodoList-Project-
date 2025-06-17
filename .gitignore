@@ -1,0 +1,8 @@
+# Ignore node_modules and envs in both frontend and backend
+new-react-app-4/node_modules/
+practiceBackend/node_modules/
+new-react-app-4/.env
+practiceBackend/.env
+
+# VS Code workspace file
+*.code-workspace
